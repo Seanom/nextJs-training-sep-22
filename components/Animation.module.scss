@@ -1,0 +1,15 @@
+@keyframes moveUp {
+  0% { transform: translateY(var(--animation-transformY-start))}
+  100% { transform: translateY(var(--animation-transformY-end))}
+}
+
+.fadeInitial {
+  opacity: 0;
+  transform: translateY(var(--animation-transformY-start));
+}
+
+.fadeIn {
+  transition: all var(--animation-global-time) ease;
+  transform: translateY(var(--animation-transformY-end));
+}
+

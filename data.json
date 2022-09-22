@@ -1,0 +1,108 @@
+{
+    "posts": [
+    {
+        "id": 1,
+        "title": "Post 1",
+        "featured_image": {
+            "src":"/hero-1.jpg",
+            "alt":""
+        },
+        "image": {
+            "src":"/card-1.jpg",
+            "alt":"Meaningful image description"
+        },
+        "category": "Type A"
+    },
+    {
+        "id": 2,
+        "title": "Post 2",
+        "featured_image": {
+            "src":"/hero-1.jpg",
+            "alt":"Wavy lines alternating in colour cascade down a dark navy background"
+        },
+        "image": {
+            "src":"/card-1.jpg",
+            "alt":""
+        },
+        "category": "Type B"
+    },
+    {
+        "id": 3,
+        "title": "Post 3",
+        "featured_image": {
+            "src":"/hero-1.jpg",
+            "alt":""
+        },
+        "image": {
+            "src":"/card-1.jpg",
+            "alt":""
+        },
+        "category": "Type A"
+    },
+    {
+        "id": 4,
+        "title": "Post 4",
+        "featured_image": {
+            "src":"/hero-1.jpg",
+            "alt":"Image description"
+        },
+        "image": {
+            "src":"/card-1.jpg",
+            "alt":""
+        },
+        "category": "Type B"
+    },
+    {
+        "id": 5,
+        "title": "Post 5",
+        "featured_image": {
+            "src":"/hero-1.jpg",
+            "alt":"Image description"
+        },
+        "image": {
+            "src":"/card-1.jpg",
+            "alt":""
+        },
+        "category": "Type B"
+    },
+    {
+        "id": 6,
+        "title": "Post 6",
+        "featured_image": {
+            "src":"/hero-1.jpg",
+            "alt":"Image description"
+        },
+        "image": {
+            "src":"/card-1.jpg",
+            "alt":""
+        },
+        "category": "Type A"
+    },
+    {
+        "id": 7,
+        "title": "Post 7",
+        "featured_image": {
+            "src":"/hero-1.jpg",
+            "alt":"Image description"
+        },
+        "image": {
+            "src":"/card-1.jpg",
+            "alt":""
+        },
+        "category": "Type A"
+    },
+    {
+        "id": 8,
+        "title": "Post 8",
+        "featured_image": {
+            "src":"/hero-1.jpg",
+            "alt":"Image description"
+        },
+        "image": {
+            "src":"/card-1.jpg",
+            "alt":""
+        },
+        "category": "Type B"
+    }
+]
+}

@@ -1,0 +1,30 @@
+.buttonGroup {
+  text-align:center;
+  margin-bottom: 16px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.button {
+  display: inline-block;
+  border: var(--button-border);
+  padding: 8px;
+  margin: 8px;
+  border-radius: 5px;
+  background-color: var(--button-background);
+  color: var(--button-color);
+  flex-basis: clamp(100px, calc(50% - 16px), 100%);
+  transition: var(--animation-global-time) ease-in-out all;
+
+  &:hover, &:focus-visible {
+    text-decoration: underline;
+  }
+}
+
+.buttonNotActive {
+  background-color: var(--button-disabled-background);
+  color: var(--button-disabled-color);
+}
